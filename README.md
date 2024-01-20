@@ -1,18 +1,2 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Projeto para leitura de dois valores em que o segundo valor deve ser maior do que o primeiro para que seja validado, caso seja menor ocorrerá uma Exceção e que gerará uma mensagem para que seja feita a correção. 
+Caso o segundo valor seja maior do que o primeiro será impressa uma contagem de todos os números da diferença entre os valores, iniciando sempre com o número 1.
